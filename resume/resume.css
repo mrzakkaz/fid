@@ -38,6 +38,6 @@ font-family: "Playfair Display", serif;
 a:link {
   color: black;
 }
-a:visited {
-  color: #6a3381;
+a:hover {
+  color: color: #6a3381;
 }
