@@ -1,0 +1,75 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Lora&display=swap");
+image {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+
+}
+header {
+  text-align: center;
+  font-family: "Lora", serif;
+}
+body {
+  text-align: center;
+  background-color: #cc6600;
+  margin: 0 10%;
+  font-family: "Lora", serif;
+  font-size: 1.05em
+
+}
+h1 {
+  text-align: center;
+  font-family: "Lora", serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 1px solid #990000;
+  margin-top: 30px;
+}
+h2 {
+  font-family: "Lora", serif;
+  font-size: 1em;
+  text-align: center;
+  border-bottom: 1px solid #990000;
+  margin-top: 30px;
+}
+h3 {
+  font-family: "Lora", serif;
+  text-align: left;
+  border-bottom: 1px solid #990000;
+}
+p {
+  font-family: "Lora", serif;
+  text-align: center;
+}
+dd {
+  font-family: "Lora", serif;
+  text-align: left;
+}
+dt {
+  font-family: "Lora", serif;
+  text-align: left;
+}
+footer {
+  font-family: "Lora", serif;
+    border-top: 1px solid #57b1dc;
+    text-align: center;
+    padding-top: 1em;
+}
+footer img {
+  width: 40px;
+  height: 40px;
+  margin-left: .5em;
+  margin-right: .5em;
+}
+ol, ul {
+font-family: "Lora", serif;
+list-style-type: none;
+text-align: center;
+}
+a:link {
+  color: orange;
+}
+a:visited {
+  color: #6a3381;
+}
